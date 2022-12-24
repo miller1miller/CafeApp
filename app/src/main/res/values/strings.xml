@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Cafe</string>
+    <string name="welcome_string">Добро пожаловать!</string>
+    <string name="username_hint">Имя пользователя</string>
+    <string name="password_hint">Пароль</string>
+    <string name="sign_in_button">Войти</string>
+    <string name="les_manns_cafe_and_patisserie">les_manns_cafe_and patisserie</string>
 </resources>
