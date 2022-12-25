@@ -21,11 +21,11 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:fontFamily="@font/montserrat_medium_italic"
+        android:fontFamily="@font/montserrat_medium"
         android:padding="16dp"
         android:text="@string/welcome_string"
         android:textAlignment="center"
-        android:textColor="@color/blue_111"
+        android:textColor="@color/black"
         android:textSize="26sp" />
 
     <EditText
