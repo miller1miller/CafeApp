@@ -5,4 +5,25 @@
     <string name="password_hint">Пароль</string>
     <string name="sign_in_button">Войти</string>
     <string name="les_manns_cafe_and_patisserie">les_manns_cafe_and patisserie</string>
+    <string name="greetings">Добрый день, %s! Что будете заказывать?</string>
+    <string name="tea">Чай</string>
+    <string name="coffee">Кофе</string>
+    <string name="additives">Что желаете добавить в ваш %s?</string>
+    <string name="sugar">Сахар</string>
+    <string name="milk">Молоко</string>
+    <string name="lemon">Лимон</string>
+    <string name="choose_drink_type">Выберите тип напитка:</string>
+    <string name="make_order">Сделать заказ</string>
+    <array name="types_of_tea">
+        <item>Зеленый</item>
+        <item>Черный</item>
+        <item>Травяной</item>
+        <item>Каркадээ</item>
+    </array>
+    <array name="types_of_coffee">
+        <item>Американо</item>
+        <item>Капучино</item>
+        <item>Латте</item>
+        <item>Руссиано</item>
+    </array>
 </resources>
