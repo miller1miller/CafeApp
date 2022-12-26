@@ -82,8 +82,8 @@ public class MakeOrderActivity extends AppCompatActivity {
         Intent intent = OrderDetailActivity.newIntent(this,
                 userName,
                 drink,
-                drinkType,
-                additivesList.toString()
+                additivesList.toString(),
+                drinkType
         );
         startActivity(intent);
     }
